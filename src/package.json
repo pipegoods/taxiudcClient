@@ -1,0 +1,8 @@
+{
+    "name": "clientapi2",
+    "productName": "TaxiUDC",
+    "version": "1.0.0",
+    "description": "TaxiUDC",
+    "main": "electron.prod.js",
+    "license": "MIT"
+}
